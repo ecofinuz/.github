@@ -10,27 +10,43 @@ Finance is a very important topic in the lives of ordinary Uzbeks. We have deep 
 
 This is harmful for ordinary people. To contribute to these issues, we will be writing not only a knowledge guide, but also give practical advice. ChatGPT can write an excellent generic post, but we will be writing actionable insights, taking the Uzbek context into account.
 
-Ecofin will be bound by Islamic finance laws (Sharia law). We do not advertise, nor endorse, nor encourage haram parts of contemporary finance: interest, guaranteed income without risk-sharing, betting, speculation, creative accounting, and etc.
+Ecofin aims to follow Islamic finance principles and will consult qualified scholars/practitioners where needed.
 
 Therefore, Ecofin is not merely an Uzbek Wikipedia for financial literacy; it is an opinionated financial literacy company guided by Islamic finance. Our business will be bound by natural and divine law.
 
 ## Company Structure
 
-Ecofin will be a for-profit company, not a non-profit. Being a non-profit severely restrics how we raise and spend money for operations and expansions. Being a for-profit, independent company will allow us to act independently, pay out contributors freely, and invest in projects without asking for permission from our supporters.
-
-Ecofin is my idea, and I don't look forward to being bound by non-profit laws/donaters on how I spend money on potential ideas and on myself.
+Ecofin will be a for-profit company, not a non-profit. Being a non-profit severely restrics how we raise and spend money for operations and expansions. Ecofin will be a for-profit company to remain operationally independent, pay contributors fairly, move quickly, and build sustainable public-interest financial education without depending entirely on grants or donations.
 
 Also, a for-profit organization allows making money for its founders/employees/contributors. There is nothing wrong with that.
 
 ## Revenue
 
-The Ecofin itself will be free for users, forever. The way to make money will be to make a partnership with enterprises. Financial literacy and education are systematic issues, and companies will most likely pursue partnerships for good reputation, especially banks. However, we need a very strong reputation for that.
+Ecofin itself will be free for users. The long-term revenue thesis is to earn through enterprise partnerships, sponsorships, institutional contracts, and donations while keeping the core educational content and tools open.
 
-This model comes from the programming world, open-source world to be exact. Many open-source, beneficial projects are supported and sponsored through partnerships and contributions. Here is an [example](https://www.djangoproject.com/fundraising/#:~:text=Seoul%2C%20South%20Korea-,DSF%20Supporters,-Our%20donors%20make).
+This model comes from the open-source world: useful public projects can stay free because institutions and supporters fund the work around them. However, finance has a conflict problem. If Ecofin criticizes interest-based lending, consumer credit, speculation, or harmful financial products, then sponsorship from financial institutions can easily damage user trust unless the rules are strict and public.
 
-This business model is relatively new; the other way, making users pay for content and our products, does not work. Many have tried (and failed) that way. We will be swimming in uncharted waters.
+Therefore, Ecofin revenue must follow a sponsorship firewall:
 
-Ecofin will be a for-profit, yet open-source company that generates revenue through partnerships and donations.
+- Sponsors cannot edit, approve, or suppress editorial content.
+- Sponsored pages are clearly labeled.
+- Ecofin will not use affiliate links to loans, deposits, betting, trading, or speculative products.
+- Ecofin will not accept sponsor categories that conflict with Islamic finance ethics.
+- The annual sponsor list will be public.
+- Sponsored educational tools must show their methodology.
+
+This means bank or financial-institution money is not automatically forbidden, but it cannot buy favorable coverage, product placement, affiliate conversion, or silence. If those terms are not acceptable to a sponsor, Ecofin should refuse the money.
+
+Better early revenue paths:
+
+- Workshops and trainings for universities, student clubs, companies, and NGOs.
+- White-label calculators and widgets for educational institutions, not loan-selling pages.
+- Sponsored public-interest series, with editorial independence.
+- Translation and localization services for financial education content.
+- Grant-style contracts from institutions, while remaining for-profit.
+- B2B financial literacy curriculum for HR departments and universities.
+
+This business model is relatively new in Uzbekistan. The alternative, making ordinary users pay for basic financial education, is less aligned with the mission. Ecofin should remain for-profit and open-source, but its revenue should come from responsible institutional work, transparent sponsorship, and community support rather than from selling users into financial products.
 
 ## Desktop Application
 
@@ -54,9 +70,9 @@ The series approach is relatively new; we can take it far. With enough series, t
 
 ## Specific university/company/accredition series + SEO
 
-As Ecofin starts to gain traction, I plan to collaborate with universities and big finance companies to write series on their own courses/operations. For example, Westminster has 4-6 Bachelor's on economics/finance and several Master's courses. This university would gain a lot by writing posts on their courses. This not only highlights them, but also gives them presence online.
+As Ecofin starts to gain traction, I plan to collaborate with universities, educational institutions, NGOs, and selected companies to write public-interest series on their own courses, operations, or financial literacy needs. For example, Westminster has 4-6 Bachelor's on economics/finance and several Master's courses. This university would gain a lot by writing posts on their courses. This not only highlights them, but also gives them presence online.
 
-The same goes for companies. For Big4, banks, and big commercial enterprises. Their departments, their internship programs, hiring process, and etc. The exact content to be written will be determined in the process.
+The same can apply to companies, Big4 firms, banks, and commercial enterprises, but only under the sponsorship firewall above. Their departments, internship programs, hiring process, and educational needs can be covered, but paid collaboration must be labeled and cannot influence editorial conclusions or product criticism. The exact content to be written will be determined in the process.
 
 We can also collaborate with ACCA/CFA/CFI/GMAT teachers to write content on their certitifactions/tests on Ecofin. Free advertising and presence for them, while we gain further content and traction.
 
